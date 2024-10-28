@@ -1,4 +1,4 @@
-# Vehicle Counting Python Script
+# Vehicle Counting Python Script using CV
 
 ## Overview
 This Python script detects and counts vehicles in video streams using computer vision techniques. It integrates object detection and tracking algorithms to accurately identify and count vehicles as they move through the video frames.
